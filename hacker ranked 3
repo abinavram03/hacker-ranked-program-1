@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    a = 4
+    b = 3
+    a1=a//b
+    print(a//b)
+    b1=a/b
+    print(a/b)
